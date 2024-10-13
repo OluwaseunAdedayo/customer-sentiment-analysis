@@ -1,0 +1,4 @@
+sentiment/
+__pycache__/
+MainFeedback.csv
+Reviews.csv
